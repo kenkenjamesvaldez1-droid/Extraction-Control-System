@@ -2,6 +2,10 @@
 
 A hardware control system designed and documented using **KiCad**, featuring a control circuit for managing an extraction/heating-related system.
 
+## 📸 Preview
+
+![Extraction Control System Schematic](extraction-control-system.png)
+
 ## 📌 Project Overview
 
 The **Extraction Control System** is an embedded/electronics project focused on designing a control circuit using electronic components and a relay-based switching mechanism.
